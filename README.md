@@ -1,2 +1,0 @@
-# swapingnumbers
-develpoed by saisree
